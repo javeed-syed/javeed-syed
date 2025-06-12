@@ -7,13 +7,6 @@
   
 
 ### *<div align="center">I'm Syed Javeed, Self-learned Software Engineer 🍁</div>*  
-  
-
-<div align="center">🔭 I’m currently working on [https://github.com/javeed-syed/zenmail)</div>  
-  
-
-<div align="center">🌱 I’m currently learning Docker and Kubernetes</div>  
-  
 
 ![]()  
   
@@ -29,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,styledcomponents,figma,jest,nodejs,express,mongodb,mysql,prisma,redis,python,firebase,linux,git,docker,kubernetes,gcp,aws,nginx,bash,jenkins,rabbitmq,grafana&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,styledcomponents,figma,jest,nodejs,express,mongodb,mysql,prisma,redis,python,firebase,linux,git,docker,kubernetes,gcp,aws,nginx,bash,jenkins,rabbitmq,grafana&perline=6" />
   </a>
 </p>
 

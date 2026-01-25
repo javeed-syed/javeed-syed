@@ -1,12 +1,8 @@
 
 
 ### Introduction  
-<div align="center">
-<img src="https://github.com/javeed-syed/javeed-syed/blob/main/intro.gif?raw=true" align="center" style="width: 100%" />
-</div>  
-  
 
-### *<div align="center">I'm Syed Javeed, Self-learned Software Engineer 🍁</div>*  
+### *<div align="center">Software Engineer focused on building scalable backend systems, real-time services, and cross-platform desktop applications.</div>*  
 
 ![]()  
   

@@ -1,22 +1,10 @@
-### Introduction  
+Hey there! 👋
 
-### <div align="center">Software Engineer focused on building scalable backend systems, real-time services, and cross-platform desktop applications.</div>
+I’m Javeed, a software engineer focused on building scalable backend systems, real-time services, and practical developer tools.
 
-<br/>
+I design and build whatever I can imagine.
 
----
-
-## Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,redis,python,linux,git,docker,kubernetes,aws,gcp,nginx,jenkins,rabbitmq,grafana&perline=6" />
-  </a>
-</p>
-
-<br/>
-
----
+If an idea pops into my head, chances are I’ll build it and ship it.
 
 ## Connect with me  
 
@@ -34,5 +22,3 @@
 <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </div>
-
-<br/>

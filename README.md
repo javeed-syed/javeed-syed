@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Hey%20there,%20I'm%20Javeed%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Real-Time%20Systems&descAlignY=58&descSize=18" width="100%" />
-
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems...;Shipping+real-time+services...;Turning+ideas+into+shipped+products...;If+I+can+imagine+it%2C+I+can+build+it." alt="Typing SVG" />
 </p>
@@ -99,40 +93,6 @@ Full-stack movie ticket booking app with a RESTful API architecture, transaction
 </div>
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=javeed-syed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javeed-syed&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javeed-syed&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-## 🤝 Connect with me
-
-<div align="center">
-
-<a href="https://github.com/javeed-syed" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://twitter.com/the_syedjaveed" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/javeed-syed" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@zenious" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="mailto:syedjaveed.ix@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
 <div align="center">

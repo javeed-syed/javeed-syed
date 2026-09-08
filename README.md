@@ -86,6 +86,7 @@ Deployed production-grade RAG chatbots and a **natural-language-to-SQL** chatbot
 <div align="center">
 
 ### [🎬 Movie Booking Platform](https://github.com/javeed-syed)
+
 **Flask · React · PostgreSQL · Redis**
 
 Full-stack movie ticket booking app with a RESTful API architecture, transactional consistency, real-time seat availability updates, and payment integration.
@@ -93,7 +94,6 @@ Full-stack movie ticket booking app with a RESTful API architecture, transaction
 </div>
 
 <br/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%" />
